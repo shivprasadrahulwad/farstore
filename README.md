@@ -49,7 +49,7 @@ A revolutionary platform connecting farmers directly with consumers, eliminating
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/farcon.git
+git clone https://github.com/shivprasadrahulwad/farcon.git
 ```
 
 2. Install dependencies
