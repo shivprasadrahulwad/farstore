@@ -16,26 +16,24 @@ A revolutionary platform connecting farmers directly with consumers, eliminating
 
 ## Features
 
-### For Consumers 👨‍👩‍👧‍👦
-- **Product Discovery**: Browse fresh vegetables and dairy products
-- **Farmer Selection**: Choose preferred farmers for deliveries
-- **Order Tracking**: Real-time tracking of deliveries
-- **Secure Payments**: Integrated payment gateway
-- **Quality Assurance**: Direct from farm-to-table freshness
-
 ### For Farmers 👨‍🌾
 - **Direct Market Access**: Connect directly with consumers
 - **Inventory Management**: Track and manage produce inventory
 - **Order Management**: Efficient order processing system
 - **Price Control**: Set competitive prices for products
 - **Delivery Management**: Optimize delivery routes
-
-### For Admins 👨‍💼
 - **Map Navigation**: Efficient delivery route planning
 - **Inventory Oversight**: Monitor farm-wide inventory
 - **Analytics Dashboard**: Track platform performance
 - **User Management**: Handle both farmer and consumer accounts
 - **Quality Control**: Maintain product standards
+- and many more
+
+## Screenshots
+To explore the app's user interface, you can view the sample images provided [here on Google Drive](https://drive.google.com/drive/folders/12K6IJ-e4jf160u6gRkjM4H_GlgoNCBxM?usp=sharing).
+
+
+⚠️ Note: Not all UI images are included directly in this repository due to space constraints. Check the Google Drive link for the complete set of screenshots.
 
 ## Tech Stack
 
