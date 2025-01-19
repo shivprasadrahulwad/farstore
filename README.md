@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ⚠️ Note: Not all UI images are included directly in this repository due to space constraints. Check the Google Drive link for the complete set of screenshots.
 
 # farstore🌾 
